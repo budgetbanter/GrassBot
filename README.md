@@ -107,7 +107,7 @@ Before running the script, ensure you have Python installed and all necessary pa
    Each IP is estimated to earn ~3000 $GRASS per day.
 8. **Run the Script:**
    ```bash
-   python3 main.py
+   python3 run.py
    ```
 9. **Multiple User IDs:**  
    To run multiple User IDs, add them to the `config.json` file.
