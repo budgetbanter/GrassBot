@@ -70,6 +70,11 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
    socks://username:pass@ip:port
    ```
 
+   Alternatively, you can specify the proxy file path using the `-p` or `--proxy-file` command-line argument when running the script:
+   ```bash
+   python run.py -p your_proxy_file.txt
+   ```
+
 ---
 
 ## Steps to Run the Code ▶️
